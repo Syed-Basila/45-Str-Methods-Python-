@@ -10,7 +10,6 @@ Welcome to the Python String Methods repository! This project covers 45 differen
 - [Usage](#usage)
 - [Examples](#examples)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
